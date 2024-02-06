@@ -1,4 +1,4 @@
-## Authentication API
+## Authentication API model app 
 
 To install all the dependencies, run the following command:
 
